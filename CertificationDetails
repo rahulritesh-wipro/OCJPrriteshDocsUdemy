@@ -1,0 +1,28 @@
+Get Certified for Java SE 21
+Since the release of Java SE 21 Developer Professional Certificate I highly recommend that you take 1Z0-830 (Java SE 21) exam instead of 1Z0-829 (Java SE 17).
+
+There are several reason why you should do that:
+
+It's always better to be certified in latest technology.
+
+The exam is easier, since pass threshold is the same, but you get 30 minutes more on the exam!
+
+The preparation is almost identical, if you are ready for Java 17, you'll be able to pass Java 21 with same knowledge.
+
+You don't have to learn JDBC, since it doesn't appear in Java 21 exam!
+
+You can find more information about recently released exam at the official Oracle website.
+
+One additional thing you need to learn regarding Java SE 21 is dealing with virtual threads. If you understand how threads work in previous versions of Java, this should be an easy read: Virtual Threads.
+
+
+
+...and you are ready to go! Good luck!
+
+
+
+links
+
+https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
+
+https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA
